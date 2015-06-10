@@ -36,7 +36,7 @@
 
 }
 
-#rentretoica
+#saisie
 {
 	width: 85%;
 	height: 80px;
@@ -52,8 +52,9 @@
 	width: 40%;
 }
 
-button
+#eade
 {
-	float: left;
+	width: 120px;
+		float: left;
 	margin-top: 4%;
 }

@@ -1,0 +1,62 @@
+#tout
+{
+	background-color: #CECECE;
+	border: 1px solid grey;
+	
+	font-size: 90%;
+	font-family: "Times new Roman";
+	font-weight: bold;
+	
+	width: 1100px;
+	margin-top: 10%;
+	margin-bottom: 10%;
+	margin-left: 10%;
+	margin-right: 10%;
+	bottom: 100px;
+	height: 500px;
+	
+	
+		border-top-left-radius: 1em;
+		border-top-right-radius: 1em;
+		border-bottom-right-radius: 1em;
+		border-bottom-left-radius: 1em;
+}
+
+
+#Oeuvre
+{
+	margin-left: 20%;
+	border: 2px solid #7CAB00;
+	border-top-left-radius: 20%;
+	border-top-right-radius: 20%;
+	border-bottom-right-radius: 20%;
+	border-bottom-left-radius: 20%;
+}
+
+	
+#presentation
+{
+	float: left;
+	color: green;
+	font-size: 100%;
+	background-color: white;
+	
+	margin-left: 10%;
+	margin-top: 3%;
+}
+
+#informations
+{
+	float: right;
+	color: green;
+	font-size: 100%;
+	background-color: white;
+	margin-right: 10%;
+	margin-top: 3%;
+}
+
+p
+{
+	margin: 0 0 0 0;
+}
+

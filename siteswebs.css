@@ -20,7 +20,7 @@ table, tr, td
 border-radius: 10px;
 padding: 10px 10px 10px 10px;
 }
-td
+tr
 {
 	margin-left: 10%;
 }
@@ -31,7 +31,7 @@ a
 	text-decoration:none;  
 }
 
-#Liens
+.Liens
 {
 font-size: 200%;
 width: 50%;
