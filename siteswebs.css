@@ -1,0 +1,39 @@
+#Tableausite
+{
+	border: 1px solid grey;
+	font-family: Arial;
+	width: 70%;
+	margin-left: 15%;
+	margin-top: 10%;
+	margin-bottom: 5%;
+	border-top-left-radius: 2em;
+	border-top-right-radius: 2em;
+	border-bottom-left-radius: 2em;
+	border-bottom-right-radius: 2em;
+	background-color:#CECECE;
+	color: #096832;
+	/*margin-bottom: 20%;*/
+}
+
+table, tr, td
+{
+border-radius: 10px;
+padding: 10px 10px 10px 10px;
+}
+td
+{
+	margin-left: 10%;
+}
+
+a
+{
+	color: green; 
+	text-decoration:none;  
+}
+
+#Liens
+{
+font-size: 200%;
+width: 50%;
+border: 1px solid black;
+}

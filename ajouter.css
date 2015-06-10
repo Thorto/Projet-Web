@@ -1,0 +1,59 @@
+ #tout
+{
+	background-color: #CECECE;
+	border: 1px solid grey;
+	
+	font-size: 90%;
+	font-family: "Times new Roman";
+	font-weight: bold;
+	
+	width: 1100px;
+	margin-top: 10%;
+	margin-bottom: 10%;
+	margin-left: 10%;
+	margin-right: 10%;
+	bottom: 100px;
+	height: 500px;
+	
+	
+	border-top-left-radius: 1em;
+	border-top-right-radius: 1em;
+	border-bottom-right-radius: 1em;
+	border-bottom-left-radius: 1em;
+}
+
+#choix
+{
+	margin-top: 5%;
+	margin-left: 10%;
+	margin-right: 5%;
+	margin-bottom: 5%;
+}
+
+#explication
+{
+	margin-left: 10%;
+
+}
+
+#rentretoiça
+{
+	width: 85%;
+	height: 80px;
+}
+
+#rentrer
+{
+	margin-left: 10%;
+	
+}
+#calmetoi
+{
+	width: 40%;
+}
+
+button
+{
+	float: left;
+	margin-top: 4%;
+}

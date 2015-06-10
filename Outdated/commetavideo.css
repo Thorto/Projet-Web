@@ -8,7 +8,7 @@
 
 #zebigtitle
 {
-	font-size: 400%;
+	font-size: 50pt;
 	font-weight: 160%;
 	position: fixed;
 	right: 37%;
@@ -17,25 +17,27 @@
 }
 #Lecommentaire
 {
-	position: absolute;
+	position: fixed;
 	right: 70%;
 	top: 0%;
-	font-size: 150%;
+	font-size: 20pt;
 }
 #Lasuite
 {
-	position: absolute;
+	position: fixed;
 	right: 70%;
-	top: 15%;
-	font-size: 150%;
+	top: 3%;
+	font-size: 20pt;
 }
 
 
 
 /*______________________________________________________________________________________________________________________________*/
-nav {
-	margin: 100px auto; 
-	text-align: center;
+nav 
+{
+	position : fixed;
+	left : 35%;
+	top : 110px;
 }
 
 nav ul ul {
@@ -99,8 +101,11 @@ nav ul {
 				/*	background: #4b545f;*/
 				}
 		
-	nav ul ul ul {
-		position: absolute; left: 100%; top:0;
+	nav ul ul ul 
+	{
+		position: absolute;
+		left: 100%; 
+		top:0%;
 	}
 	
 	
@@ -117,7 +122,7 @@ body
 footer
 {
  font-size: 15pt ;
- position: absolute;
+ position: fixed;
  bottom: 0px;
  left : 0px;
  right: 0px;
@@ -133,7 +138,7 @@ footer, header
 }
 header
 {
-position: absolute;
+position: fixed;
 top: 0px;
 left: 0px;
 right: 0px;
@@ -146,10 +151,24 @@ bottom: 78%
  right : 0px;
  bottom : 0px;
 }
-#Pawelcome, #Pasoustitre
+#Pawelcome
+{
+	margin-top : 14%;
+	text-align: center;
+	color : red;
+}
+
+#Pasoustitre
 {
 	text-align: center;
 	color : red;
+}
+
+#presentation
+{
+color: red;
+font-size: 180%;
+text-align: center;
 }
 
 aside
@@ -158,10 +177,27 @@ aside
  position : absolute;
  right : 0px;
  top: 10px;
+ border-width:2px;
+ border-style:solid;
+ border-color:black;
+ background-color : white;
 }
 label
 {
 	display: block;
 	width: 75px;
 	float: left;
+}
+
+#VOUSETESOU
+{
+	position: fixed;
+	right: 20%;
+	top : 0%;
+	font-size: 30pt;
+}
+
+body
+{
+	background-image : url("MATRIX2.jpeg");
 }

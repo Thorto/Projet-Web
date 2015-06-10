@@ -1,0 +1,35 @@
+#video
+{
+	margin-top: 20%;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-bottom: 10%;
+	background-color: #CECECE;
+		border-top-left-radius: 2em;
+	border-top-right-radius: 2em;
+	border-bottom-left-radius: 2em;
+	border-bottom-right-radius: 2em;
+		border: 1px solid grey;
+}
+
+iframe 
+{
+	margin-left: 8%;
+	margin-right: 8%;
+	margin-bottom: 5%;
+	
+	width: 84%;
+
+}
+
+#video> p 
+{
+	margin-top: 10%;
+	margin-left: 8%;
+}
+
+a
+{
+	color: green; 
+ text-decoration:none;  
+}
