@@ -86,7 +86,7 @@ body
     background-attachment: fixed;
 	min-height: 100%;
 	display : table;
-	width: 100%;
+	min-width: 100%;
 }
 
 footer
@@ -96,7 +96,7 @@ footer
  bottom: 0%;
  left : 0%;
  right:0%;
-display : table-row;
+ display : table-row;
 }
 
 footer, header
